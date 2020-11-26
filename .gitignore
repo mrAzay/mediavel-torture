@@ -4,8 +4,8 @@
 
 node_modules/
 
-*/node_modules
+*/node_modules/
 
-old/node_modules
+/old/node_modules/
 
-new/node_modules
+/new/node_modules/
