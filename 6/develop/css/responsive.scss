@@ -952,6 +952,11 @@
 		font-size: 12px;
 	}
 }
+@media screen and (max-width: 962px) {
+	.content-left, .content-right {
+		font-size: 15px !important;
+	}
+}
 @media screen and (max-width: 940px) {
 	.section4__card-item-headline {
 		display: none;
